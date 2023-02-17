@@ -3094,16 +3094,16 @@
 
 	body {
 		position: relative;
-		padding-top: 5em;
+		padding-top: 3em;
 	}
 
 	#header {
 		background: #1c1c1c;
 		color: #d5d5d5;
 		cursor: default;
-		height: 5em;
+		height: 3em;
 		left: 0;
-		line-height: 5em;
+		line-height: 3em;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -3137,15 +3137,15 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #6699CC;
-			font-size: 1.75em;
+			color: #ffffff;
+			font-size: 1.5em;
 			text-transform: none;
 			font-weight: normal;
 			padding: 0;
 		}
 
 			#header .logo:hover {
-				color: rgba(229, 71, 75, 0.75);
+				color: rgba(255, 255, 255, 0.75);
 			}
 
 		#header a {
@@ -3576,17 +3576,17 @@
 /* Main */
 
 	#main {
-		padding: 4em 0 2em 0;
+		padding: 2em 0 2em 0;
 	}
 
 	#one {
-		padding: 6em 0 4em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		@media screen and (max-width: 980px) {
 
 			#one {
-				padding: 4em 0 2em 0;
+				padding: 2em 0 2em 0;
 			}
 
 		}
@@ -3600,7 +3600,7 @@
 		}
 
 	#two {
-		padding: 6em 0 4em 0;
+		padding: 2em 0 2em 0;
 		background: #f3f3f3;
 		background: -moz-linear-gradient(left, #f3f3f3 0%, #f3f3f3 50%, #f7f7f7 0%, #f7f7f7 100%);
 		background: -webkit-linear-gradient(left, #f3f3f3 0%, #f3f3f3 50%, #f7f7f7 0%, #f7f7f7 100%);
@@ -3674,7 +3674,7 @@
 		}
 
 	#three {
-		padding: 6em 0 4em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		#three .inner {
@@ -3744,8 +3744,8 @@
 
 	#footer {
 		background-color: #000000;
-		color: #f2a3a5;
-		padding: 4em 0 2em 0;
+		color: #ffffff;
+		padding: 2em 0 2em 0;
 		background: #000000;
 	}
 
@@ -3834,7 +3834,7 @@
 				#footer input[type="button"].alt.icon:before,
 				#footer button.alt.icon:before,
 				#footer .button.alt.icon:before {
-					color: #f8d1d2;
+					color: #ffffff;
 				}
 
 			#footer input[type="submit"].special,
@@ -3874,7 +3874,7 @@
 
 		#footer input[type="checkbox"] + label,
 		#footer input[type="radio"] + label {
-			color: #f2a3a5;
+			color: #ffffff;
 		}
 
 			#footer input[type="checkbox"] + label:before,
@@ -3938,7 +3938,7 @@
 		}
 
 			#footer .copyright a {
-				color: #f2a3a5;
+				color: #ffffff;
 			}
 
 		@media screen and (max-width: 980px) {
