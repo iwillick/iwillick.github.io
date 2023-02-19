@@ -3580,7 +3580,7 @@
 	}
 
 	#one {
-		padding: 2em 0 2em 0;
+		padding: 2em 0 0.1em 0;
 	}
 
 		@media screen and (max-width: 980px) {
@@ -3625,11 +3625,11 @@
 			}
 
 				#two .inner article:first-child {
-					padding-right: 6em;
+					padding-right: 1.5em;
 				}
 
 				#two .inner article:last-child {
-					padding-left: 6em;
+					padding-left: 1.5em;
 				}
 
 		@media screen and (max-width: 980px) {
