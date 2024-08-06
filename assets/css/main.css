@@ -2341,7 +2341,7 @@
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width: 60%;
 			}
 
 		.image.left {
@@ -4225,7 +4225,7 @@
 		color: #ffffff;
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
-		background-image: url("../../images/banner4.jpg");
+		background-image: url("../../images/banner4.png");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
